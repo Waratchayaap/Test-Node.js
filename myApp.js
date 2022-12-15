@@ -34,4 +34,5 @@
 //     console.log('Server is started the war');
 // });
 
-console.log("Hello World");
+const name = 'Hello World';
+console.warn(`${name}`);
